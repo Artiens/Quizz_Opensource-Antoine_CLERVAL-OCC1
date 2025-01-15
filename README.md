@@ -24,3 +24,4 @@ To run the quiz game on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
    ```bash
    git clone git@github.com:Artiens/Quizz_Opensource-Antoine_CLERVAL-OCC1.git
+   python main.py
